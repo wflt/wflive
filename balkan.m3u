@@ -319,16 +319,20 @@ https://nl1.nghk.ai/SK2SRHD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/hustler_hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/hustler_tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Private HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/private_tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Dorcel XXX
 https://lb.dstvmultimedia.com/DorcelXXXHD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Playboy HD
 https://lb.dstvmultimedia.com/PlayboyHD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: EroXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/eroxxx.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 1
 https://nl1.nghk.ai/PinkErotic1/index.m3u8
