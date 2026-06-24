@@ -317,8 +317,11 @@ https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
+
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler HD
-https://s.oxax.tv/9cB2GSv72bOQyEvEbW_6XQ/10/1782254512/index.m3u8
+https://webtvstream.bhtelecom.ba/hustler_hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler TV
+https://webtvstream.bhtelecom.ba/hustler_tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Brazzers TV
 https://s.oxax.tv/ilvv0QQwvIFRX8lkeIns5g/46/1782254538/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Private HD
@@ -349,13 +352,7 @@ https://nl1.nghk.ai/PinkErotic7/index.m3u8
 https://nl1.nghk.ai/PinkErotic8/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Gay
 https://live.redtraffic.net/gay.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler TV
-https://webtvstream.bhtelecom.ba/hustler_tv.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler TV HD
-https://webtvstream.bhtelecom.ba/hustler_tv_hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: HuHd
-https://webtvstream.bhtelecom.ba/hustler_hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Privatetvhd
-https://webtvstream.bhtelecom.ba/private_tv_hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Privet
-https://webtvstream.bhtelecom.ba/private_hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: privatetv
+https://webtvstream.bhtelecom.ba/private_tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: privatepla
+https://webtvstream.bhtelecom.ba/private.m3u8
