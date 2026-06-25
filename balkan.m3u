@@ -283,24 +283,31 @@ https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4Premium.rs@SD",Arena Sport 4 Premium SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/SK1SRHD/index.m3u8
+https://lb.dstvmultimedia.com/ArenaPremium1HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.rs@SD",Arena Sport 1 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
+https://lb.dstvmultimedia.com/ArenaSport1HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.rs@SD",Arena Sport 2 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
+https://lb.dstvmultimedia.com/ArenaSport2HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport3.rs@SD",Arena Sport 3 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport3HD/index.m3u8
+https://lb.dstvmultimedia.com/ArenaSport3HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4.rs@SD",Arena Sport 4 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport4HD/index.m3u8
+https://lb.dstvmultimedia.com/ArenaSport4HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport5.rs@SD",Arena Sport 5 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
+https://lb.dstvmultimedia.com/ArenaSport5HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport6.rs@SD",Arena Sport 6 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
+https://lb.dstvmultimedia.com/ArenaSport6HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport7.rs@SD",Arena Sport 7 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
