@@ -41,8 +41,6 @@ https://tv.rtv-niksic.me/hls/stream.m3u8
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 2
-http://143.244.62.109:80/rts2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 3
 http://143.244.62.109:80/rts3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
@@ -168,8 +166,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="TV Kanali", Belarus 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", ČT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", talkSPORT TV
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", FIFA+
