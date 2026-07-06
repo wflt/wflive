@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="TV Kanali", BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali",Federalna televizija
-https://nl1.nghk.ai/FederalnaTV/index.m3u8
+http://143.244.62.109:80/federalna/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",OBN
 https://nl1.dstv.cx/OBN/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Super Media TV
@@ -42,9 +42,9 @@ https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 2
-https://nl1.dstv.cx/RTS2HD/index.m3u8
+http://143.244.62.109:80/rts2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 3
-https://nl1.dstv.cx/RTS3HD/index.m3u8
+http://143.244.62.109:80/rts3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
 https://nl1.dstv.cx/RTRS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink
@@ -251,80 +251,81 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 "group-title="TV Kanali",- - - WORLD CUP 2026 - - -
 LIVE STREAMS
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
-https://nl1.nghk.ai/RTCG1/index.m3u8
+http://143.244.62.109:80/rtcg1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2
-https://nl1.nghk.ai/RTCG2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 2 RS
-https://nl1.nghk.ai/RTS2HD/index.m3u8
+http://143.244.62.109:80/rtcg2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 1
+http://143.244.62.109:80/rts1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 2
+http://143.244.62.109:80/rts2/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", HTV 2 HR
 https://nl1.nghk.ai/HRT2/index.m3u8
-#EXTINF:-1 group-title="TV Kanali",Federalna TV
-https://nl1.nghk.ai/FederalnaTV/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",ZDF DE
-https://nl1.nghk.ai/ZDF/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP1
-https://redir.cache.orange.pl/dai4/org1/vb/104/tvp1hd/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP2
-https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Sport.sk@SD",:Šport Slovakia
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt@SD",TVI Portugal
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Antena 1 RO
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD",Arena Sport 1 Premium SRB
-https://lb.dstvmultimedia.com/PlayboyHD/index.m3u8
+http://143.244.62.109:80/erox/index.m3u8
 #EXTINF:- tvg-id="ArenaSport2Premium.rs@SD",Arena Sport 2 Premium SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaPremium2HD/index.m3u8
+http://143.244.62.109:80/as2premium/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport3Premium.rs@SD",Arena Sport 3 Premium SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
+http://143.244.62.109:80/as3premium/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4Premium.rs@SD",Arena Sport 4 Premium SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK1SRHD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaPremium1HD/index.m3u8
+http://143.244.62.109:80/as4premium/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.rs@SD",Arena Sport 1 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaSport1HD/index.m3u8
+http://143.244.62.109:80/as1/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.rs@SD",Arena Sport 2 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaSport2HD/index.m3u8
+http://143.244.62.109:80/as2/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport3.rs@SD",Arena Sport 3 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport3HD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaSport3HD/index.m3u8
+http://143.244.62.109:80/as3/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4.rs@SD",Arena Sport 4 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport4HD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaSport4HD/index.m3u8
+http://143.244.62.109:80/as4/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport5.rs@SD",Arena Sport 5 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaSport5HD/index.m3u8
+http://143.244.62.109:80/as5/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport6.rs@SD",Arena Sport 6 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
-https://lb.dstvmultimedia.com/ArenaSport6HD/index.m3u8
+http://143.244.62.109:80/as6/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport7.rs@SD",Arena Sport 7 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
+http://143.244.62.109:80/as7/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport8.rs@SD",Arena Sport 8 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
+http://143.244.62.109:80/as8/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport9.rs@SD",Arena Sport 9 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport9HD/index.m3u8
+http://143.244.62.109:80/as9/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport10.rs@SD",Arena Sport 10 SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
+http://143.244.62.109:80/as10/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport5Premium.rs@SD",Arena Sport 5 Premium SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK2SRHD/index.m3u8
+http://143.244.62.109:80/as1premium/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport5Premium.rs@SD",Arena Sport ADRENALIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://143.244.62.109:80/asadrenalin/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: EroXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://143.244.62.109:80/eroxxx/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: EroX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://143.244.62.109:80/erox/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: DesireTV
+https://lb.dstvmultimedia.com/desiretv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/hustler_hd.m3u8
@@ -334,29 +335,22 @@ https://webtvstream.bhtelecom.ba/hustler_tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Private HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/private_tv.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Dorcel XXX
-https://lb.dstvmultimedia.com/DorcelXXXHD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Playboy HD
-https://lb.dstvmultimedia.com/PlayboyHD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: EroXXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/eroxxx.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 1
-https://nl1.nghk.ai/PinkErotic1/index.m3u8
+http://143.244.62.109:80/pinkerotic1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 2
-https://nl1.nghk.ai/PinkErotic2/index.m3u8
+http://143.244.62.109:80/pinkerotic2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 3
-https://nl1.nghk.ai/PinkErotic3/index.m3u8
+http://143.244.62.109:80/pinkerotic3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 4
-https://nl1.nghk.ai/PinkErotic4/index.m3u8
+http://143.244.62.109:80/pinkerotic4/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 5
-https://nl1.nghk.ai/PinkErotic5/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 6
-https://nl1.nghk.ai/PinkErotic6/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 7
-https://nl1.nghk.ai/PinkErotic7/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Erotic 8
-https://nl1.nghk.ai/PinkErotic8/index.m3u8
+http://143.244.62.109:80/pinkerotic5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Adult 1
+http://143.244.62.109:80/adult1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Adult 2
+http://143.244.62.109:80/adult2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Adult 3
+http://143.244.62.109:80/adult3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Gay
 https://live.redtraffic.net/gay.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", END OF PLAYLIST
