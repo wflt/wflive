@@ -270,7 +270,7 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD",Arena Sport 1 Premium SRB
-http://143.244.62.109:80/erox/index.m3u8
+http://143.244.62.109:80/eroxxx/index.m3u8
 #EXTINF:- tvg-id="ArenaSport2Premium.rs@SD",Arena Sport 2 Premium SRB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://143.244.62.109:80/as2premium/index.m3u8
@@ -325,7 +325,7 @@ http://143.244.62.109:80/eroxxx/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://143.244.62.109:80/erox/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: DesireTV
-https://lb.dstvmultimedia.com/desiretv/index.m3u8
+http://143.244.62.109:80/desiretv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/hustler_hd.m3u8
