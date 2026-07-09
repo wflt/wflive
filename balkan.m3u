@@ -185,35 +185,35 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 http://91.201.172.14:35005
 #EXTINF:-1,Digi Sport 2 HD RO
 http://91.201.172.14:35006
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3" - Digi Sport 3 HD RO
+#EXTINF:-1, Digi Sport 3 HD RO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://82.78.243.219:45739/play/a01m/index.m3u8
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3"  - Digi Sport 4 RO
+#EXTINF:-1, Digi Sport 4 RO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://82.78.243.219:45739/play/a00v/index.m3u8
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3"  - Max Sport 1 BG
+#EXTINF:-1, Max Sport 1 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport1
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3 - Max Sport 2 BG
+#EXTINF:-1, Max Sport 2 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport2
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3 - Max Sport 3 BG
+#EXTINF:-1, Max Sport 3 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3 - Max Sport 4 BG
+#EXTINF:-1, Max Sport 4 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05n
 #EXTINF:-1,NW Sport 1 
 http://41.205.70.146/BEINSPORT1/index.m3u8
 #EXTINF:-1,NW Sport 2
 http://41.205.70.146/M6/index.m3u8
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3 - Ziggo Sport
+#EXTINF:-1, Ziggo Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://86.87.15.10:8004/play/a02d/index.m3u8
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3 - Ziggo Sport 2
+#EXTINF:-1, Ziggo Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://86.87.15.10:8004/play/a02b/index.m3u8
-#EXTINF:-1, like Gecko) Chrome/149.0.0.0 Safari/537.3 - Ziggo Sport 3
+#EXTINF:-1, Ziggo Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://86.87.15.10:8003/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", NRT Sport
