@@ -7,7 +7,7 @@ https://webtvstream.bhtelecom.ba/moja_tv.m3u8
 https://webtvstream.bhtelecom.ba/my_tv_bih.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",MYTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/mytv_bih.m3u8
+https://webtvstream.bhtelecom.ba/my_tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",MYTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/mytvhd.m3u8
+https://webtvstream.bhtelecom.ba/mytv.m3u8
