@@ -344,9 +344,9 @@ http://143.244.62.109:80/as1premium/index.m3u8
 http://143.244.62.109:80/asadrenalin/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: EroXXX
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Dorcel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://143.244.62.109:80/eroxxx/index.m3u8
+http://77.46.130.252:99/dorcel
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: EroX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://143.244.62.109:80/erox/index.m3u8
