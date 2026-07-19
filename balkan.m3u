@@ -281,6 +281,15 @@ https://nl1.nghk.ai/HRT2/index.m3u8
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD",:Šport Slovakia
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD",Setanta Sports 1 Eurasia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD",Setanta Sports 2 Eurasia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1,BNT 1 HD
 https://78.108.251.7/BNT1_HD/index.m3u8
 #EXTINF:-1,BNT 2 HD
@@ -301,6 +310,12 @@ https://78.108.251.7/Arena_Sport_3/index.m3u8
 https://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:-1,Arena Sport 5 HD
 https://78.108.251.7/Arena_Sport_5/index.m3u8
+#EXTINF:-1,Arena Premium 1
+http://143.244.63.87/as1premiumbh/index.m3u8
+#EXTINF:-1,Arena Premium 2
+http://143.244.63.87/as2premiumbh/index.m3u8
+#EXTINF:-1,Arena Premium 3
+http://143.244.63.87/as3premium/index.m3u8
 #EXTINF:-1,Diema Sport HD
 https://78.108.251.7/Diema_Sport_HD/index.m3u8
 https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
