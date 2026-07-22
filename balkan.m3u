@@ -330,6 +330,8 @@ https://78.108.251.7/NovaSport_HD/index.m3u8
 STREAM
 #EXTINF:-1,HUSTLER HD
 https://shift03.isp.bg/HustlerHD/index.m3u8
+#EXTINF:-1,Brazzers TV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1,XY Mix
 https://shift03.isp.bg/XYMix/index.m3u8
 #EXTINF:-1,XY Plus
@@ -342,16 +344,16 @@ https://shift03.isp.bg/Erox/index.m3u8
 https://shift03.isp.bg/Eroxxx/index.m3u8
 #EXTINF:-1,EXTASY 4K
 https://shift03.isp.bg/Extasy4K/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2324.png",Dorcel TV HD
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/245/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2014.png",Playboy TV
+#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2324.png",X: Dorcel TV HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2014.png",X: Playboy TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Private HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/private_tv.m3u8
 https://shift03.isp.bg/PrivateHD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Hardcore
-https://live.redtraffic.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: DUSK TV
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Big Dick
 https://live.redtraffic.net/bigdick.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Gay
