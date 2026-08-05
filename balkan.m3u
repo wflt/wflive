@@ -316,16 +316,8 @@ http://178.253.194.79:10016
 http://178.253.194.79:10017
 #EXTINF:-1,Arena Sport Adrenalin
 http://178.253.194.79:10018
-#EXTINF:-1,Diema Sport HD
-https://78.108.251.7/Diema_Sport_HD/index.m3u8
-https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
-#EXTINF:-1,Diema Sport 2 HD
-https://78.108.251.7/Diema_Sport_2_HD/index.m3u8
-https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
-#EXTINF:-1,Diema Sport 3 HD
-https://shift03.isp.bg/DiemaSport3_HD/index.m3u8
-#EXTINF:-1,Nova Sport HD
-https://78.108.251.7/NovaSport_HD/index.m3u8
+#EXTINF:-1,Sport Klub 1 Slovenia
+https://nl1.nghk.ai/SK1SLO/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
 #EXTINF:-1,HUSTLER HD
