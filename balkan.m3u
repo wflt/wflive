@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV Kanali", BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="TV Kanali",Federalna televizija
-http://143.244.62.109:80/federalna/index.m3u8
-#EXTINF:-1 group-title="TV Kanali",OBN
-http://143.244.62.109:80/obn/index.m3u8
+#EXTINF:-1 group-title="TV Kanali",HRT International
+http://143.244.63.87/hrtinternational/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali",Super Media TV
 https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Televizija 5 BiH
@@ -13,26 +11,20 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
 #EXTINF:-1 group-title="TV Kanali",TV Zenica 
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 group-title="TV Kanali",Pink BH
-http://143.244.62.109:80/pinkbh/index.m3u8
+#EXTINF:-1 group-title="TV Kanali",Pink M
+http://143.244.63.87/pinkm/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Vikom
-http://143.244.62.109:80/vikom/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Agro TV RS
+http://143.244.63.87/agrotv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali",RTV Puls Brčko
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 group-title="TV Kanali", HRT 1
-http://143.244.62.109:80/hrt1/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", HRT 2
-https://nl1.nghk.ai/HRT2/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", HRT 3
+http://143.244.63.87/hrt3/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali",RTL
-http://143.244.62.109:80/rtlhr/index.m3u8
-#EXTINF:-1 group-title="TV Kanali",RTL 2
-http://143.244.62.109:80/rtl2hr/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria+Vision Medjugorje
@@ -45,52 +37,41 @@ https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Sandzak TV
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS Svet
-https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",K1
+http://143.244.63.87/k1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
 http://143.244.62.109:80/rtrs/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink
-https://edge8.pink.rs/pinktv/playlist.m3u8
-http://143.244.62.109:80/pink/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Red
-https://edge8.pink.rs/redtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV
-https://edge8.pink.rs/narodnatv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Happy
-http://143.244.62.109:80/happy/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", AGRO TV
-http://143.244.62.109:80/agrotv/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Pink Action HD
-http://143.244.62.109:80/pinkaction/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink Extra
+http://143.244.63.87/pinkextra/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Pink Film
+http://143.244.63.87/pinkfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Pink Western
+http://143.244.63.87/pinkwestern/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", Pink Romance
+http://143.244.63.87/pinkromance/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic HD
-http://143.244.62.109:80/blic/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KTV Zrenjanin
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Belle Amie
 http://92.60.238.10:1935/live/belleamie/chunklist_w1987720129.m3u8
-#EXTINF:-1 tvg-id="PrvaWorld.rs@SD",Prva World
-http://143.244.62.109:80/prvaworld/index.m3u8
-#EXTINF:-1 tvg-id="Prva.rs@SD",Prva
-http://143.244.62.109:80/prva/index.m3u8
-#EXTINF:-1 tvg-id="PrvaFiles.rs@SD",Prva Files
-http://143.244.62.109:80/prvafiles/index.m3u8
-#EXTINF:-1 tvg-id="PrvaLife.rs@SD",Prva Life
-http://143.244.62.109:80/prvalife/index.m3u8
-#EXTINF:-1 tvg-id="PrvaMax.rs@SD",Prva Max
-http://143.244.62.109:80/prvamax/index.m3u8
-#EXTINF:-1 tvg-id="PrvaPlus.rs@SD",Prva Plus
-http://143.244.62.109:80/prvaplus/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Tring History
+http://143.244.63.87/tringhistory/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Tring Fantasy
+http://143.244.63.87/tringfantasy/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Tring Life
+http://143.244.63.87/tringlife/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Tring World
+http://143.244.63.87/tringworld/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Alsat M
+http://143.244.63.87/alsatm/playlist.m3u8
 #EXTINF:-1 tvg-id="KitchenTV.rs@SD",Kitchen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
-#EXTINF:-1 tvg-id="PrvaMontenegro.me@SD",SAT TV
-http://143.244.62.109:80/sattv/index.m3u8
 #EXTINF:-1 tvg-id="CT1.cz@SD",ČT 1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2.cz@SD",ČT 2
@@ -99,19 +80,6 @@ http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CTDecko.cz@SD",ČT:D/ČT art
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="SYFY.de@HD",SYFY HD (720p)
-http://rezofoot.tv/SYFY-HD/index.m3u8
-#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD (720p)
-http://41.223.30.230/3SAT/index.m3u8
-#EXTINF:-1 tvg-id="CiraTV.de@SD",Cira TV (1080p)
-https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
-#EXTINF:-1 tvg-id="OstWest.de@SD",Ost West (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://hls127.freeott.top:8080/OstWest/video.m3u8
-#EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision (576p)
-http://hls127.freeott.top:8080/Motorvision/video.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (720p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="CoolTV.mk@SD",Cool TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 #EXTINF:-1 tvg-id="FolkKlubTV.au@SD",Folk Klub (720p)
@@ -120,24 +88,46 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 #EXTINF:-1 tvg-id="INTVAustralia.au@SD",INTV Australia (720p)
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Bounce XL
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de@SD",Hamburg 1
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Handystar.de@SD",Handystar SD
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="HSE.de@SD",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSEExtra.de@SD",HSE24 Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSETrend.de@SD",HSE24 Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="iSTUFF.de@SD",iSTUFF
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de@SD",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD",KaufBei TV
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="",In Touch+ 
+https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines",INTRAVEL 
+https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl@SD",INTROUBLE 
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl@SD",INWILD 
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl@SD",INWONDER 
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us@SD",Law & Crime TV
+https://cdn.lawandcrime.net/rewind/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali",Rakuten TV Comedy UK
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 group-title="TV Kanali",Rakuten TV Action UK
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 group-title="TV Kanali",Rakuten TV Drama UK
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 group-title="TV Kanali",Pink World Cinema
-http://143.244.62.109:80/pinkworldcinema/index.m3u8
-#EXTINF:-1 group-title="TV Kanali",Pink Western
-http://143.244.62.109:80/pinkwestern/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",True History TV
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", NBClx Home
@@ -147,7 +137,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Talk TV 
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Newsmax Balkans
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera English
@@ -156,10 +146,6 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 group-title="TV Kanali", ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", PressTV Iran (on English)
-https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", HSE24 Trend Deutschland
-https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSN 2 USA
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTK 1 Sat
@@ -180,14 +166,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",HIT FM TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/master.m3u8
-#EXTINF:-1 group-title="TV Kanali", BN Music
-http://143.244.62.109:80/bnmusic/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", DM Sat
-http://143.244.62.109:80/dmsat/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", TV Duga
-http://143.244.62.109:80/duga/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", OTV Valentino
-http://143.244.62.109:80/otv/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Pink Music
+http://143.244.63.87/pinkmusic/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", Pink Music 2
+http://143.244.63.87/pinkmusic2/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Veseljak TV Slovenia
@@ -202,8 +184,12 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Kronehit 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",That's 90s
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk@SD",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland",Now 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb513f19657460909bce2167d0d334dd844c3bdd0b61cb3071aa448f049f4b1bdae5a5d3ec4ae47821c04d873d5f66411f21c118dc7c1fc7c76adf046727486b9b9ab265d9896450f08d597562ac7b1c51e00e07c47100238ebb4e5dd670e7295243a5583f5063c0bf5fab704fc1d50bd8767dd8a9d963317c383ea57e657305d692dfd07777ae0eb3876a0ac47116b2a063f3e669dea0488f5371ac408451dfcdb0def92098b6937091938145c78e2062208d51b3b0e4ebc3a2a1ecfe51622a3b40f4ac83fb010c87554a4fc219aad541d21cd480298d6178ee4ec80fcc11846fb806aee50ef1fce09f6f4e3badc85e3a67b2f3fadba9657ded2fbb85ecde7873d6a7462809992dfe2b393d96f2d35bd59145d8e651e8de0e3c36c4834a9299c0e1bee1f705f642ffc9ff963255401972258353a78864d869fc76acdc1c28580d69a2985cc8839b321d6d4d8f8c5b942313b6d58e89bd566e2a01dfdb52cdbf8ef6cea6a54bcf99790ab8c7b3a23d0c/85/1920x1080_4716800/index.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk@SD",NOW Rock
+http://118.142.17.190:8278/now90hls/playlist.m3u8
 #EXTINF:-1,ESPN LATAM
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1,ESPN 3 LATAM
@@ -218,59 +204,83 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="CablenetSports1.cy@SD",Cablenet Sports 1
+http://185.102.171.218/CablenetSports1/index.m3u8
+#EXTINF:-1 tvg-id="CablenetSports2.cy@SD",Cablenet Sports 2
+http://185.102.171.218/CablenetSports2/index.m3u8
+#EXTINF:-1 tvg-id="CytavisionSports1.cy@SD",Cytavision Sports 1
+http://185.102.171.218/Cytavisionsports1/index.m3u8
+#EXTINF:-1 tvg-id="CytavisionSports2.cy@SD",Cytavision Sports 2
+http://185.102.171.218/Cytavisionsports2/index.m3u8
+#EXTINF:-1 tvg-id="CytavisionSports3.cy@SD",Cytavision Sports 3
+http://185.102.171.218/Cytavisionsports3/index.m3u8
+#EXTINF:-1 tvg-id="CytavisionSports4.cy@SD",Cytavision Sports 4
+http://185.102.171.218/Cytavisionsports4/index.m3u8
+#EXTINF:-1 tvg-id="CytavisionSports5.cy@SD",Cytavision Sports 5 (720p)
+http://185.102.171.218/Cytavisionsports5/index.m3u8
+#EXTINF:-1 tvg-id="Sport.uz@SD",Sport TV
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FutbolTV.uz",Futbol TV
+http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="TV Kanali", Belarus 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD",Okko Futbol
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1 tvg-id="OkkoSport.ru@SD",Okko Sport 
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD",Okko Prajm Sport
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 tvg-id="KHLPrime.ru@SD",KHL Prime 
+http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K",Match! TV 
+http://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru@SD",Match! Arena 
+http://stream.mcquack.net/163/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",viju+ Sport
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD",Match! Strana
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", talkSPORT TV
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French",FIFA+ French
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German",FIFA+ German
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica",FIFA+ Hispanic America
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain",FIFA+ Spain
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ United States
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,Digi Sport 1 HD RO
 http://91.201.172.14:35005
 #EXTINF:-1,Digi Sport 2 HD RO
 http://91.201.172.14:35006
-#EXTINF:-1, Digi Sport 3 HD RO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://82.78.243.219:45739/play/a01m/index.m3u8
-#EXTINF:-1, Digi Sport 4 RO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://82.78.243.219:45739/play/a00v/index.m3u8
-#EXTINF:-1, Max Sport 1 BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1, Max Sport 2 BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://77.46.130.252:99/maxsport2
-#EXTINF:-1, Max Sport 3 BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1, Max Sport 4 BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a05n
-#EXTINF:-1,NW Sport 1 
-http://41.205.70.146/BEINSPORT1/index.m3u8
-#EXTINF:-1,NW Sport 2
-http://41.205.70.146/M6/index.m3u8
-#EXTINF:-1, Ziggo Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://86.87.15.10:8004/play/a02d/index.m3u8
-#EXTINF:-1, Ziggo Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://86.87.15.10:8004/play/a02b/index.m3u8
-#EXTINF:-1, Ziggo Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://86.87.15.10:8003/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", NRT Sport
-https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", HTV 2 Croatia
-https://nl1.nghk.ai/HRT2/index.m3u8
+#EXTINF:-1 tvg-id="Sport1.hu@SD",Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/sport1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Sport2.hu@SD",Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Spiler1.hu@SD",Spiler 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spiler1/index.m3u8
+#EXTINF:-1 tvg-id="Spiler2.hu@SD",Spiler 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spiler2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ČT Sport Czech Republic
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD",:Šport Slovakia
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.it@SD",Sky Sport F1 Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD",Setanta Sports 1 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
@@ -314,6 +324,8 @@ http://178.253.194.79:10005
 http://178.253.194.79:10016
 #EXTINF:-1,Arena Sport 5 Premium RS
 http://178.253.194.79:10017
+#EXTINF:-1,Arena Sport Tenis
+http://178.253.194.79:10019
 #EXTINF:-1,Arena Sport Adrenalin
 http://178.253.194.79:10018
 #EXTINF:-1,Sport Klub 1 Slovenia
