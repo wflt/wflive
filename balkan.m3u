@@ -340,11 +340,9 @@ http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1,Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-https://shift03.isp.bg/Erox/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Private HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/private_tv.m3u8
-https://shift03.isp.bg/PrivateHD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: DUSK TV
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Big Dick
