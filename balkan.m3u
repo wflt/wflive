@@ -240,20 +240,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1,B Sports 1
-https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B Sports 2
-https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B Sports 3
-https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B Sports 4
-https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B Sports 5
-https://corestream.siteyaptim.live//bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S SPORT HD 1
-https://corestream.siteyaptim.live//s-sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S SPORT HD 2
-https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sport.uz@SD",Sport TV
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FutbolTV.uz",Futbol TV
@@ -304,9 +290,38 @@ http://88.212.15.19/live/spiler2/index.m3u8
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD",:Šport Slovakia
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySportF1.it@SD",Sky Sport F1 Italia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
+#EXTINF:-1,PL: Eleven Sport 1 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZE1uOUFwY0l3ODhhaUp3K0JWMWs4bz0
+#EXTINF:-1,PL: Eleven Sport 3 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUWFiNytwMXVRVUROSTJkS3RCNUlzbz0
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYTVKTUJoVktXTkpMbWxZZXYzZm8yST0
+#EXTINF:-1,PT: Sport TV 4 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWXg5QU42NEhYQUhaWGt0SDdoeFc0UT0
+#EXTINF:-1,PT: Sport TV 4 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVXhFNEtiTnMyVW9ic1lnNGp5MityVT0
+#EXTINF:-1,PT: Sport TV 5 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWC83M2RWQlNJZlpuRFhDNUtvbzFERT0
+#EXTINF:-1,PT: Sport TV 5 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY3locC94QjNMK3B0L3F6VXVlelllOD0
+#EXTINF:-1,PT: Sport TV 6 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZU56WFB1RVNZSzAyWHFwNEd4SVowWT0
+#EXTINF:-1,PT: Sport TV 7
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZjg3aDlRNnZJb3Rnd0NlSjcvVDBOND0
+#EXTINF:-1,diemasport 1 HD
+http://77.46.130.252:99/diema1
+#EXTINF:-1,diemasport 2 HD
+http://77.46.130.252:99/diema2
+#EXTINF:-1,diemasport 3 HD
+http://77.46.130.252:99/diema3
+#EXTINF:-1,maxsport 1 HD
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1,maxsport 2 HD
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1,maxsport 3 HD
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1,maxsport 4 HD
+http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD",Setanta Sports 1 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
@@ -316,8 +331,8 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 tvg-id="",CazeTV Brazil
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1,M4 Sport
+http://141.94.193.53:80/M4_Sport_HD/index.m3u8
 #EXTINF:-1,Arena Sport 1 HR
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2 (HR)" tvg-logo="http://tv.exyutv.info/logos/hr-sport/250x250_arena2.png" group-title="Sport",Arena Sport 2 HR
@@ -326,110 +341,6 @@ http://newtv.exyutv.info:836/live?cId=85&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devi
 http://newtv.exyutv.info:836/live?cId=86&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
 #EXTINF:-1 tvg-id="ArenaSport4-HR" tvg-name="Arena Sport 4 (HR)" tvg-logo="http://tv.exyutv.info/logos/hr-sport/250x250_arena4.png" group-title="Sport",Arena Sport 4 HR
 http://newtv.exyutv.info:836/live?cId=87&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
-#EXTINF:-1 tvg-name="ARENA SPORT 2 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=3516788610.png" tvg-id="ARENA SPORT 2 .c",ARENA SPORT 2 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/925ddf118ae688dd83b8b0.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 3 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=3976054322.png" tvg-id="ARENA SPORT 3 .c",ARENA SPORT 3 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/0842afb5a72b5491e4a843.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 4 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=1591548450.png" tvg-id="ARENA SPORT 4 .c",ARENA SPORT 4 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/9f21c0ce99606c56aebf19.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 5 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=1673343890.png" tvg-id="ARENA SPORT 5 .c",ARENA SPORT 5 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/4ce0a13ccffdf170a60d25.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 6 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=605899074.png" tvg-id="ARENA SPORT 6 .c",ARENA SPORT 6 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/54b2a23173333dc0a5ed65.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 7 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=427647218.png" tvg-id="ARENA SPORT 7 .c",ARENA SPORT 7 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/2b563e2df9508e752a16d1.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 8 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=2603480867.png" tvg-id="ARENA SPORT 8 .c",ARENA SPORT 8 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/f943a9891fa56ec5a28e81.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 9 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=2790121107.png" tvg-id="ARENA SPORT 9 .c",ARENA SPORT 9 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/0e4ced330ebfa567970263.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 10 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=1811236133.png" tvg-id="ARENA SPORT 10 .c",ARENA SPORT 10 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/90cc4d17fab459ca7ec00e.m3u8
-#EXTINF:-1 tvg-name="HAJDUK TV .c" group-title="Croatia" tvg-logo="" tvg-id="HAJDUK TV .c",HAJDUK TV .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/c85c5904228f17c6e0eef7.m3u8
-#EXTINF:-1 tvg-name="KREATOR TV .c" group-title="Croatia" tvg-logo="" tvg-id="KREATOR TV .c",KREATOR TV .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/cd3f3975062817a2b022ac.m3u8
-#EXTINF:-1 tvg-name="LOV I RIBOLOV .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=2851193921.png" tvg-id="LOV I RIBOLOV .c",LOV I RIBOLOV .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/d486d64997965d453a5dbb.m3u8
-#EXTINF:-1 tvg-name="MAX SPORT 1 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=1493433126.png" tvg-id="MAX SPORT 1 .c",MAX SPORT 1 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/0d75852a209df79d9ad21d.m3u8
-#EXTINF:-1 tvg-name="MAX SPORT 2 .c" group-title="Croatia" tvg-logo="" tvg-id="MAX SPORT 2 .c",MAX SPORT 2 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/52dbe7ace318ad187df6c2.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 1 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=478362278.png" tvg-id="SPORT KLUB 1 .c",SPORT KLUB 1 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/95db5a9a5e0fda1bf577c6.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 2 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=1529036918.png" tvg-id="SPORT KLUB 2 .c",SPORT KLUB 2 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/ab00136d50b17ff8e63673.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 3 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=1715694022.png" tvg-id="SPORT KLUB 3 .c",SPORT KLUB 3 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/a56ef326d809a81017b82a.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 4 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=3563304406.png" tvg-id="SPORT KLUB 4 .c",SPORT KLUB 4 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/3b4bead3823476af168c37.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 5 .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=3909327974.png" tvg-id="SPORT KLUB 5 .c",SPORT KLUB 5 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/09860bf023cc17b6136af7.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 6 .c" group-title="Croatia" tvg-logo="" tvg-id="SPORT KLUB 6 .c",SPORT KLUB 6 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/109e4819fe708d154e1a1d.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 7 .c" group-title="Croatia" tvg-logo="" tvg-id="SPORT KLUB 7 .c",SPORT KLUB 7 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/9364e1a6b793c8cdbea538.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 8 .c" group-title="Croatia" tvg-logo="" tvg-id="SPORT KLUB 8 .c",SPORT KLUB 8 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/7982efaaf67930a17cfd17.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 9 .c" group-title="Croatia" tvg-logo="" tvg-id="SPORT KLUB 9 .c",SPORT KLUB 9 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/45c0e73f8a91f85c46b084.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB 10 .c" group-title="Croatia" tvg-logo="" tvg-id="SPORT KLUB 10 .c",SPORT KLUB 10 .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/92e7f26f74b542b141970a.m3u8
-#EXTINF:-1 tvg-name="SPORT KLUB FIGHT .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=791133812.png" tvg-id="SPORT KLUB FIGHT .c",SPORT KLUB FIGHT .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/5bb690f0b0d651aa895b6d.m3u8
-#EXTINF:-1 tvg-name="SPORTSKA .c" group-title="Croatia" tvg-logo="https://logo.huhu.to/logo?c=1395683442.png" tvg-id="SPORTSKA .c",SPORTSKA .c
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/d078c68d28a1da574ba0c6.m3u8
 #EXTINF:-1,Arena 1 Premium
 https://kinowatch.com/iptv/stream/54c52ef75c1733a279975f.m3u8
 #EXTINF:-1,Arena 2 Premium
@@ -444,6 +355,8 @@ https://kinowatch.com/iptv/stream/014ab93b71957a06d8c9a8.m3u8
 https://nl1.nghk.ai/SK1SLO/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
+#EXTINF:-1,Hustler HD
+http://stream.mcquack.net/52/index.m3u8
 #EXTINF:-1,DESIRE HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1,Brazzers TV
@@ -454,15 +367,18 @@ http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 http://185.23.80.23:8080/PlayboyTV/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2324.png",Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Russian Night XXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://185.23.80.23:8080/RusskayaNoch/index.m3u8
+#EXTINF:-1,Penthouse Gold HD
+http://stream.mcquack.net/66/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://stream.mcquack.net/280/index.m3u8
+#EXTINF:-1,Private HD
+http://stream.mcquack.net/282/index.m3u8
 #EXTINF:-1,SEX PRIVE
 http://45.190.28.50/SEX_PRIVE/playlist.m3u8
 #EXTINF:-1,LEO GOLD HD
 http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Big Dick
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic 1
 https://live.redtraffic.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic Gay
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic 2
 https://live.redtraffic.net/gay.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", END OF PLAYLIST
