@@ -1,22 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV Kanali", BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="TV Kanali",STV Hrvatska
-http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 group-title="TV Kanali",Zivice TV
-https://live20.bozztv.com/akamaissh101/ssh101/zivice26/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali",NIS TV
-http://178.253.201.11:8081/live/tvnis/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali",SLON Ext
-https://live.rtvslon.ba/live/sloninfo/index.m3u8
-#EXTINF:-1 group-title="TV Kanali",TV Zenica 
-https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG MNE
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1,RTS 1
 http://79.101.50.1:10101/
 #EXTINF:-1,RTS 2
 http://79.101.50.1:10102/
 #EXTINF:-1,RTS 3
 http://79.101.50.1:10103/
+#EXTINF:-1 group-title="TV Kanali",BN TV
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 group-title="TV Kanali",STV Hrvatska
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="TV Kanali",NIS TV
+http://178.253.201.11:8081/live/tvnis/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali",TOK TV BH
+https://elara.netcomm.rs/toktv/index.fmp4.m3u8
+#EXTINF:-1 group-title="TV Kanali",TV Zenica 
+https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1,Pink
 http://79.101.50.1:10104/
 #EXTINF:-1,Prva Srpska Televizija
@@ -25,8 +27,6 @@ http://79.101.50.1:10105/
 http://79.101.50.1:10106/
 #EXTINF:-1 group-title="TV Kanali",Happy TV
 http://79.101.50.1:10107/
-#EXTINF:-1 group-title="TV Kanali",BN TV
-https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",RTV Puls Brčko
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",RTV HB
@@ -37,8 +37,6 @@ https://diadoratv.stream/live/diadora/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiacinque/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG MNE
-https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nikšić
 https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Sandzak TV
@@ -50,23 +48,21 @@ https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CT1.cz@SD",ČT 1
-http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2.cz@SD",ČT 2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT24.cz@SD",ČT24 
-http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="CTDecko.cz@SD",ČT:D/ČT art
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CoolTV.mk@SD",Cool TV (1080p) [Not 24/7]
-https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="",Jednotka STV1
+http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="",Dvojka STV2
+http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="FolkKlubTV.au@SD",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-id="FolkTV.mk@SD",Folk TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 #EXTINF:-1 tvg-id="INTVAustralia.au@SD",INTV Australia (720p)
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 tvg-id="Hamburg1.de@SD",Hamburg 1
-https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Handystar.de@SD",Handystar SD
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen
@@ -81,18 +77,13 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="Juwelo.de@SD",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:-1 tvg-id="KaufBeiTV.de@SD",KaufBei TV
-https://api.alpaca.t62a.com/hls/9103/index.m3u8
 #EXTINF:-1 tvg-id="",ARTE
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="",ARD
 https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="",RTL ZWEI
-https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="",Super RTL DE
-https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines",INTRAVEL 
 https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD",INTROUBLE 
@@ -109,6 +100,8 @@ https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 group-title="TV Kanali",Rakuten TV Drama UK
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",AXN White CZ/SK
+http://88.212.15.50/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TravelXP
@@ -121,10 +114,16 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Talk TV 
+#EXTINF:-1 group-title="TV Kanali", Talk TV United Kingdom
 https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", CNBC UK
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", CNN International HD
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Newsmax Balkans
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Euronews Serbia
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", WION News
@@ -149,9 +148,14 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 "group-title="TV Kanali", NTV HD RU - НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",HIT FM TV
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",HIT FM RS
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/master.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",LOLA Radio RS
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",KAROLINA Radio RS
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TDI Radio RS
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Veseljak TV Slovenia
@@ -162,6 +166,10 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Latina
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="",Music Box Sexy
+http://88.212.15.17/live/mb_sexy/index.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="",Music Box Classic
+http://88.212.15.17/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Kronehit 
@@ -180,8 +188,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.uz@SD",Sport TV
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FutbolTV.uz",Futbol TV
 http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
@@ -216,20 +222,20 @@ http://91.201.172.14:35005
 http://91.201.172.14:35006
 #EXTINF:-1 tvg-id="Sport1.hu@SD",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/sport1_hun/index.m3u8
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.hu@SD",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/sport2_hun/index.m3u8
-#EXTINF:-1 tvg-id="Spiler1.hu@SD",Spiler 1
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="Spiler1.hu@SD",Kanal 1 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/spiler1/index.m3u8
-#EXTINF:-1 tvg-id="Spiler2.hu@SD",Spiler 2
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="Spiler2.hu@SD",Kanal 1 XTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/spiler2/index.m3u8
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1,Sport1 Baltic
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ČT Sport Czech Republic
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD",:Šport Slovakia
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",NOVA SPORT 1 SK
@@ -244,12 +250,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd
 #EXTINF:-1 group-title="Спорт",NOVA SPORT 6 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd
-#EXTINF:-1,diemasport 1 BG
-http://77.46.130.252:99/diema1
-#EXTINF:-1,diemasport 2 BG
-http://77.46.130.252:99/diema2
-#EXTINF:-1,diemasport 3 BG
-http://77.46.130.252:99/diema3
 #EXTINF:-1,Maxsport 1 BG
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1,Maxsport 2 BG
@@ -266,11 +266,6 @@ http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD",Setanta Sports 2 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 tvg-id="",Setanta Ukraine HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 #EXTINF:-1,Arena Sport 1 HR
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2 (HR)" tvg-logo="http://tv.exyutv.info/logos/hr-sport/250x250_arena2.png" group-title="Sport",Arena Sport 2 HR
@@ -285,36 +280,36 @@ http://85.187.232.3:5050/udp/239.100.101.26:8888
 http://85.187.232.3:5050/udp/239.100.101.27:8888
 #EXTINF:-1,ARENA M3 PREMIUM MK
 http://85.187.232.3:5050/udp/239.100.101.28:8888
-#EXTINF:-1,Arena 1 Premium SRB
-http://45.82.88.87:15153/udp/238.40.1.01:5000
-#EXTINF:-1,Arena 2 Premium SRB
-http://45.82.88.87:15153/udp/238.40.1.02:5000
-#EXTINF:-1,Arena 3 Premium SRB
-http://45.82.88.87:15153/udp/238.40.1.03:5000
-#EXTINF:-1,Arena Adrenalin HD SRB
-http://45.82.88.87:15153/udp/238.40.1.9:5000
-#EXTINF:-1,Arena Sport 1 HD SRB
-http://45.82.88.87:15153/udp/238.40.1.10:5000
-#EXTINF:-1,Arena Sport 1 HD SRB
-http://45.82.88.87:15153/udp/238.40.1.11:5000
-#EXTINF:-1,Arena Sport 2 HD SRB
-http://45.82.88.87:15153/udp/238.40.1.12:5000
-#EXTINF:-1,Arena Sport 3 HD SRB
-http://45.82.88.87:15153/udp/238.40.1.13:5000
-#EXTINF:-1,Arena Sport 4 HD SRB
-http://45.82.88.87:15153/udp/238.40.1.14:5000
-#EXTINF:-1,Arena Sport 5 HD SRB
-http://45.82.88.87:15153/udp/238.40.1.15:5000
-#EXTINF:-1,Arena Sport 6 HD SRB
-http://45.82.88.87:15153/udp/238.40.1.16:5000
-#EXTINF:-1,Arena Fight HD SRB
-http://45.82.88.87:15153/udp/238.40.1.17:5000
-#EXTINF:-1,Arena ESport HD SRB
-http://45.82.88.87:15153/udp/238.40.1.18:5000
-#EXTINF:-1,Arena 1X2 Sport HD SRB
-http://45.82.88.87:15153/udp/238.40.1.19:5000
-#EXTINF:-1,Sport Klub 1 SLO
-https://nl1.nghk.ai/SK1SLO/index.m3u8
+#EXTINF:-1 ,Arena Sport Premium 1 (SR)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vlDbEfJGjORHHMIsvDPztyeDvJ3zezDr3vE0PJrzVdqG
+#EXTINF:-1 ,Arena Sport Premium 1 (SR) HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
+#EXTINF:-1 ,Arena Sport Premium 2 (SR)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7viEFxCBH-i8qzB5vo2N4B_F-zek609oACDd88DxBMVh8
+#EXTINF:-1 ,Arena Sport Premium 2 (SR) HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgPEzVHcL4gYWaPFrZS6w98desN9TSqc5V46z6YEMNAV
+#EXTINF:-1 ,Arena Sport Premium 3 (SR)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vsgQEOb_7KB6g_jREZv4EkjnIZ-LG38RpV5210a98bCt
+#EXTINF:-1 ,Arena Sport Premium 3 (SR) HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vo038aDHwtrADMTxAMyDDHZzHpJkD6KHwKN9QCcI3AzO
+#EXTINF:-1 ,Arena Sport Premium 4 (SR)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyC2wtcD_hjcX5jfJTpIV5T_
+#EXTINF:-1 ,Arena Sport Premium 5 (SR)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyAdzSVlCQNqcJpfWUpbNxtP
+#EXTINF:-1 ,Arena Sport Premium 5 (SR) HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhZmAdInbMAEmmGU4pkqV_sOpGfj3A7ntQiL2FYPXoXO
+#EXTINF:-1 ,Arena Adrenalin (SR)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyBaYHxoO-h_oErkBONRelWE
+#EXTINF:-1 ,Arena Adrenalin (SR) HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vjUK30CphF9fW9y6CWhUnyNEz9Nq6B_Aw4qB752E2Nds
+#EXTINF:-1 ,Arena Tenis (SR)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyBRk8tANd1QkpzPjGDGPdJ6
+#EXTINF:-1 ,Arena Tenis (SR) HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vjUK30CphF9fW9y6CWhUnyOx5nBJ3NaYt1xQvpri_9J7
+#EXTINF:-1 ,Arena E-Sport HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vl1BWIekJmiWJGbj5bvQtkPT0G1kJ63qYLPt5H_Y5-57
+#EXTINF:-1 ,Arena Fight HD
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgF7IlfJLQPJieo0Sz9nMnGd3YFC7_JPKxn1YGHrzYmx
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
 #EXTINF:-1,Hustler HD
@@ -335,8 +330,14 @@ http://stream.mcquack.net/66/index.m3u8
 http://stream.mcquack.net/280/index.m3u8
 #EXTINF:-1,Private HD
 http://stream.mcquack.net/282/index.m3u8
-#EXTINF:-1,SEX PRIVE
-http://45.190.28.50/SEX_PRIVE/playlist.m3u8
+#EXTINF:-1,xymix HD
+http://ru.russkoe-iptv.com:8080/s/xddmuhch/xy-mix-hd.m3u8
+#EXTINF:-1,xymax HD
+http://ru.russkoe-iptv.com:8080/s/xddmuhch/xy-max-hd.m3u8
+#EXTINF:-1,xyplus HD
+http://ru.russkoe-iptv.com:8080/s/xddmuhch/xy-plus-hd.m3u8
+#EXTINF:-1,vixen HD
+http://ru.russkoe-iptv.com:8080/s/xddmuhch/vixen-tv-hd.m3u8
 #EXTINF:-1,LEO GOLD HD
 http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic 1
