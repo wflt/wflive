@@ -43,6 +43,8 @@ https://tv.rtv-niksic.me/hls/stream.m3u8
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
+#EXTINF:-1,Pink Plus
+http://51.195.6.191:8080/PinkPlus/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KTV Zrenjanin
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
@@ -102,6 +104,16 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",AXN White CZ/SK
 http://88.212.15.50/live/test_white/playlist.m3u8
+#EXTINF:-1,Pink World Cinema SRB
+http://51.195.6.191:8080/PinkWorldCinema/index.m3u8?token=test
+#EXTINF:-1,Pink Thriller SRB
+http://51.195.6.191:8080/PinkThriller/index.m3u8?token=test
+#EXTINF:-1,Pink Serije SRB
+http://51.195.6.191:8080/PinkSerije/index.m3u8?token=test
+#EXTINF:-1,Pink Comedy SRB
+http://51.195.6.191:8080/PinkComedy/index.m3u8?token=test
+#EXTINF:-1,Pink Classic SRB
+http://51.195.6.191:8080/PinkClassic/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TravelXP
@@ -250,6 +262,22 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd
 #EXTINF:-1 group-title="Спорт",NOVA SPORT 6 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd
+#EXTINF:-1 ,CANAL+ SPORT SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1 ,CANAL+ SPORT 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 ,CANAL+ SPORT 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 ,CANAL+ SPORT 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 ,CANAL+ SPORT 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 ,CANAL+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 ,CANAL+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 ,CANAL+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
 #EXTINF:-1,Maxsport 1 BG
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1,Maxsport 2 BG
@@ -280,35 +308,13 @@ http://85.187.232.3:5050/udp/239.100.101.26:8888
 http://85.187.232.3:5050/udp/239.100.101.27:8888
 #EXTINF:-1,ARENA M3 PREMIUM MK
 http://85.187.232.3:5050/udp/239.100.101.28:8888
-#EXTINF:-1 ,Arena Sport Premium 1 (SR)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vlDbEfJGjORHHMIsvDPztyeDvJ3zezDr3vE0PJrzVdqG
-#EXTINF:-1 ,Arena Sport Premium 1 (SR) HD
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
-#EXTINF:-1 ,Arena Sport Premium 2 (SR)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7viEFxCBH-i8qzB5vo2N4B_F-zek609oACDd88DxBMVh8
-#EXTINF:-1 ,Arena Sport Premium 2 (SR) HD
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgPEzVHcL4gYWaPFrZS6w98desN9TSqc5V46z6YEMNAV
-#EXTINF:-1 ,Arena Sport Premium 3 (SR)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vsgQEOb_7KB6g_jREZv4EkjnIZ-LG38RpV5210a98bCt
-#EXTINF:-1 ,Arena Sport Premium 3 (SR) HD
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vo038aDHwtrADMTxAMyDDHZzHpJkD6KHwKN9QCcI3AzO
-#EXTINF:-1 ,Arena Sport Premium 4 (SR)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyC2wtcD_hjcX5jfJTpIV5T_
-#EXTINF:-1 ,Arena Sport Premium 5 (SR)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyAdzSVlCQNqcJpfWUpbNxtP
-#EXTINF:-1 ,Arena Sport Premium 5 (SR) HD
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhZmAdInbMAEmmGU4pkqV_sOpGfj3A7ntQiL2FYPXoXO
-#EXTINF:-1 ,Arena Adrenalin (SR)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyBaYHxoO-h_oErkBONRelWE
-#EXTINF:-1 ,Arena Adrenalin (SR) HD
+#EXTINF:-1 ,Arena Adrenalin
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vjUK30CphF9fW9y6CWhUnyNEz9Nq6B_Aw4qB752E2Nds
-#EXTINF:-1 ,Arena Tenis (SR)
+#EXTINF:-1 ,Arena Tenis
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vs7hB3sM-VnC4Nr4cp4XdyBRk8tANd1QkpzPjGDGPdJ6
-#EXTINF:-1 ,Arena Tenis (SR) HD
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vjUK30CphF9fW9y6CWhUnyOx5nBJ3NaYt1xQvpri_9J7
-#EXTINF:-1 ,Arena E-Sport HD
+#EXTINF:-1 ,Arena E-Sport
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vl1BWIekJmiWJGbj5bvQtkPT0G1kJ63qYLPt5H_Y5-57
-#EXTINF:-1 ,Arena Fight HD
+#EXTINF:-1 ,Arena Fight
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgF7IlfJLQPJieo0Sz9nMnGd3YFC7_JPKxn1YGHrzYmx
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
@@ -330,14 +336,14 @@ http://stream.mcquack.net/66/index.m3u8
 http://stream.mcquack.net/280/index.m3u8
 #EXTINF:-1,Private HD
 http://stream.mcquack.net/282/index.m3u8
-#EXTINF:-1,xymix HD
-http://ru.russkoe-iptv.com:8080/s/xddmuhch/xy-mix-hd.m3u8
-#EXTINF:-1,xymax HD
-http://ru.russkoe-iptv.com:8080/s/xddmuhch/xy-max-hd.m3u8
-#EXTINF:-1,xyplus HD
-http://ru.russkoe-iptv.com:8080/s/xddmuhch/xy-plus-hd.m3u8
-#EXTINF:-1,vixen HD
-http://ru.russkoe-iptv.com:8080/s/xddmuhch/vixen-tv-hd.m3u8
+#EXTINF:-1 group-title="",Extasy 4K
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="",Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="",Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="",Babes TV
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1,LEO GOLD HD
 http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic 1
