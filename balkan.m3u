@@ -43,8 +43,6 @@ https://tv.rtv-niksic.me/hls/stream.m3u8
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
-#EXTINF:-1,Pink Plus
-http://51.195.6.191:8080/PinkPlus/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KTV Zrenjanin
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
@@ -85,7 +83,6 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines",INTRAVEL 
 https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD",INTROUBLE 
@@ -104,16 +101,8 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",AXN White CZ/SK
 http://88.212.15.50/live/test_white/playlist.m3u8
-#EXTINF:-1,Pink World Cinema SRB
-http://51.195.6.191:8080/PinkWorldCinema/index.m3u8?token=test
-#EXTINF:-1,Pink Thriller SRB
-http://51.195.6.191:8080/PinkThriller/index.m3u8?token=test
-#EXTINF:-1,Pink Serije SRB
-http://51.195.6.191:8080/PinkSerije/index.m3u8?token=test
-#EXTINF:-1,Pink Comedy SRB
-http://51.195.6.191:8080/PinkComedy/index.m3u8?token=test
-#EXTINF:-1,Pink Classic SRB
-http://51.195.6.191:8080/PinkClassic/index.m3u8?token=test
+#EXTINF:-1 tvg-id="",Euro D TR
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TravelXP
@@ -134,8 +123,8 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Newsmax Balkans
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Euronews Serbia
-https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", BBC News Africa
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", WION News
@@ -156,8 +145,6 @@ https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 "group-title="TV Kanali", Russia 1 (Kaliningrad) - Россия 1 (Калининград)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 "group-title="TV Kanali", NTV HD RU - НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",HIT FM RS
@@ -190,10 +177,10 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="Now90s00s.uk@Poland",Now 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb513f19657460909bce2167d0d334dd844c3bdd0b61cb3071aa448f049f4b1bdae5a5d3ec4ae47821c04d873d5f66411f21c118dc7c1fc7c76adf046727486b9b9ab265d9896450f08d597562ac7b1c51e00e07c47100238ebb4e5dd670e7295243a5583f5063c0bf5fab704fc1d50bd8767dd8a9d963317c383ea57e657305d692dfd07777ae0eb3876a0ac47116b2a063f3e669dea0488f5371ac408451dfcdb0def92098b6937091938145c78e2062208d51b3b0e4ebc3a2a1ecfe51622a3b40f4ac83fb010c87554a4fc219aad541d21cd480298d6178ee4ec80fcc11846fb806aee50ef1fce09f6f4e3badc85e3a67b2f3fadba9657ded2fbb85ecde7873d6a7462809992dfe2b393d96f2d35bd59145d8e651e8de0e3c36c4834a9299c0e1bee1f705f642ffc9ff963255401972258353a78864d869fc76acdc1c28580d69a2985cc8839b321d6d4d8f8c5b942313b6d58e89bd566e2a01dfdb52cdbf8ef6cea6a54bcf99790ab8c7b3a23d0c/85/1920x1080_4716800/index.m3u8
-#EXTINF:-1 tvg-id="NOWRock.uk@SD",NOW Rock
-http://118.142.17.190:8278/now90hls/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", FITE 24h
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 group-title="TV Kanali", FightBOX
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
@@ -202,16 +189,16 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="FutbolTV.uz",Futbol TV
 http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="",DD Sports India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="TV Kanali", Belarus 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD",Okko Futbol
-http://stream.mcquack.net/491/index.m3u8
-#EXTINF:-1 tvg-id="OkkoSport.ru@SD",Okko Sport 
-http://stream.mcquack.net/492/index.m3u8
-#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD",Okko Prajm Sport
-http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 tvg-id="",Eurosport 1 HU
+http://88.212.15.17/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="",Eurosport 2 HU
+http://88.212.15.17/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="KHLPrime.ru@SD",KHL Prime 
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K",Match! TV 
@@ -220,8 +207,8 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/163/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",viju+ Sport
 http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 tvg-id="MatchStrana.ru@SD",Match! Strana
-http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD",Match! Boets (Boxing)
+http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", talkSPORT TV
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ United States
@@ -244,23 +231,29 @@ http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Spiler2.hu@SD",Kanal 1 XTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1,F1 AntenaPlay SD
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+#EXTINF:-1,Sky F1
+https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1,Sport1 Baltic
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ČT Sport Czech Republic
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", VOYO Sport 1 CZE
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Sport.sk@SD",:Šport Slovakia
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",NOVA SPORT 1 SK
+#EXTINF:-1 group-title="",NOVA SPORT 1 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport1/live_fullhd
-#EXTINF:-1 group-title="Спорт",NOVA SPORT 2 SK
+#EXTINF:-1 group-title="",NOVA SPORT 2 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport2/live_fullhd
-#EXTINF:-1 group-title="Спорт",NOVA SPORT 3 SK
+#EXTINF:-1 group-title="",NOVA SPORT 3 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport3/live_fullhd
-#EXTINF:-1 group-title="Спорт",NOVA SPORT 4 SK
+#EXTINF:-1 group-title="",NOVA SPORT 4 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd
-#EXTINF:-1 group-title="Спорт",NOVA SPORT 5 SK
+#EXTINF:-1 group-title="",NOVA SPORT 5 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd
-#EXTINF:-1 group-title="Спорт",NOVA SPORT 6 SK
+#EXTINF:-1 group-title="",NOVA SPORT 6 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd
 #EXTINF:-1 ,CANAL+ SPORT SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
