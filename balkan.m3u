@@ -313,10 +313,10 @@ http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 http://185.23.80.23:8080/PlayboyTV/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2324.png",Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1,Dorcel XXX
+http://88.212.15.50/live/test_dorcel_xxx_hevc/playlist.m3u8
 #EXTINF:-1,Penthouse Gold HD
 http://stream.mcquack.net/66/index.m3u8
-#EXTINF:-1,Blue Hustler
-http://stream.mcquack.net/280/index.m3u8
 #EXTINF:-1,Private HD
 http://stream.mcquack.net/282/index.m3u8
 #EXTINF:-1 group-title="",Extasy 4K
@@ -327,7 +327,7 @@ http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="",Babes TV
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1,LEO GOLD HD
+#EXTINF:-1,LEO GOLD
 http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RedTraffic 1
 https://live.redtraffic.net/bigdick.m3u8
